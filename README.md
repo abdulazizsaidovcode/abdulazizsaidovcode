@@ -9,6 +9,7 @@
 
 - :telescope: Education: IT - City Academy!
 
+---
 
 :mailbox: How to contact me:
   

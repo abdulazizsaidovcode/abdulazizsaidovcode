@@ -1,6 +1,6 @@
 # Hi there, I'm <a href="https://t.me/davvayuje" target="_blank">Abdul Aziz</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
---
+---
 
 ### :man_technologist: Me:
 
@@ -10,12 +10,12 @@
 - :telescope: Education: IT - City Academy!
 
 
-- :mailbox: How to contact me:
-- 
+:mailbox: How to contact me:
+  
 <a href="https://www.instagram.com/Abdulazizsaidov_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
 <a href="https://t.me/abdulaziz_saidov" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
 
---
+---
 
 ### 💻 Technologies & Languages
 
@@ -28,7 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp
 </div>
 
---
+---
 
 ### 🛠  Frameworks & Library
 
@@ -40,7 +40,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
 
---
+---
 
 ### 🛠  Frameworks & Library
 

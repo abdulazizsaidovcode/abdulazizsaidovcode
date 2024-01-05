@@ -10,7 +10,7 @@
 - :Education: IT-City Academy!
 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-azizbek-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/abdulaziz_saidov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:abdulazizsaidovcode@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-Abdulaziz-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/abdulaziz_saidov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:abdulazizsaidovcode@gmail.com)
 
 ---
 

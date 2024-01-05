@@ -1,4 +1,4 @@
-# Привет, меня зовут Азизбек!
+# Hello, my name is Abdul Aziz
 
 ---
 

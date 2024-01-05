@@ -1,4 +1,4 @@
-# Hello, my name is Abdul Aziz
+# Hi there, I'm Abdul Aziz
 
 ---
 
@@ -7,7 +7,7 @@
 .Welcome to my GitHub!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> My name is Abdul Aziz
 
 
-- :Education: IT-City Academy!
+- :telescope: Education - IT-City Academy!
 
 
 - :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-Abdulaziz-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/abdulaziz_saidov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:abdulazizsaidovcode@gmail.com)

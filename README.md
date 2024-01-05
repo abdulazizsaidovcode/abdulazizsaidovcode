@@ -1,4 +1,4 @@
-# Hi there, I'm Abdul Aziz
+# Hi there, I'm <a href="https://t.me/davvayuje" target="_blank">Abdul Aziz</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
 ---
 
@@ -10,8 +10,9 @@
 - :telescope: Education: IT - City Academy!
 
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-Abdulaziz-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/abdulaziz_saidov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:abdulazizsaidovcode@gmail.com)
-
+- :mailbox: How to contact me: 
+<a href="https://www.instagram.com/Abdulazizsaidov_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
+<a href="https://t.me/abdulaziz_saidov" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
 ---
 
 ---

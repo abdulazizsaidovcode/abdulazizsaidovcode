@@ -29,7 +29,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp
 
   <img src="https://skillicons.dev/icons?i=js,nodejs,git,html,css,express" />
-  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3" />
+  
 </div>
 
 

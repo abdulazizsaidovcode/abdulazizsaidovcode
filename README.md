@@ -21,7 +21,7 @@
 ### 💻 Technologies & Languages
 
 <div>
-  <img src="https://skillicons.dev/icons?i=js,cpp,nodejs,git,html,htmx,css,express,mongodb,ts&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,cpp,nodejs,git,html,htmx,css,express,mongodb,ts&perline=6&theme=light" />
   
 </div>
 
@@ -32,7 +32,7 @@
 ### 🛠  Frameworks & Library
 
 <div>
-  <img src="https://skillicons.dev/icons?i=bootstrap,gulp,tailwind,tensorflow,threejs,nextjs,pug,react,sass,svelte,jquery,vite&perline=6" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,gulp,tailwind,tensorflow,threejs,nextjs,pug,react,sass,svelte,jquery,vite&perline=6&theme=light" />
 </div>
 
 ---
@@ -40,7 +40,7 @@
 ### 🛠  Others
 
 <div>
-  <img src="https://skillicons.dev/icons?i=figma,firebase,git,github,gitlab,linux,notion,ps,wordpress&perline=6" />
+  <img src="https://skillicons.dev/icons?i=figma,firebase,git,github,gitlab,linux,notion,ps,wordpress&perline=6&theme=light" />
 </div>
 
 

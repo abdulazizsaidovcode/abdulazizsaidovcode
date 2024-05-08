@@ -22,7 +22,6 @@
 
 <div>
   <img src="https://skillicons.dev/icons?i=js,cpp,nodejs,git,html,htmx,css,express,mongodb,ts&perline=6&theme=dark" />
-  
 </div>
 
 
@@ -33,6 +32,7 @@
 
 <div>
   <img src="https://skillicons.dev/icons?i=bootstrap,gulp,tailwind,tensorflow,threejs,nextjs,pug,react,sass,svelte,jquery,vite&perline=6&theme=dark" />
+  <img src="https://gsap.com/community/uploads/monthly_2020_03/tweenmax.png.cf27916e926fbb328ff214f66b4c8429.png" style="width: 30px; border-radius: 10px" />
 </div>
 
 ---

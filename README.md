@@ -4,11 +4,6 @@
 
 ### :man_technologist: Me:  
 
-.Welcome to my GitHub!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
-
-
-- :telescope: Education: IT - City Academy!
-
 ---
 
 :mailbox: How to contact me:
